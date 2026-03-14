@@ -1,0 +1,4 @@
+ERROR Database connection failed
+ERROR Timeout while connecting to service
+ERROR Payment gateway not responding
+ERROR Disk space full
